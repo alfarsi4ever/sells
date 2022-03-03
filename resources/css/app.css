@@ -1,0 +1,7 @@
+li {
+    opacity: 1;
+    list-style-type: none;
+    color: white;
+    text-decoration: none;
+    transition: all 0.3s ease-in-out;
+  }
