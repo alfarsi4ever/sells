@@ -1,6 +1,6 @@
 @extends('inc.navbar')
 @section('content')
-    <h2>Posts Page </h2>
+    <h2>Posts Page 123</h2>
     @if(count($posts)>0)
     <div class="featured">
     <ul class="clearfix">
